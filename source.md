@@ -72,6 +72,10 @@ http://www.pref.osaka.lg.jp/senkan/date/h16san/San_Top_Main.htm
 
 2007年府議選投票率  
 http://www.pref.osaka.lg.jp/senkan/date/h19hugi/Fugi_Top_Main.htm  
-※2004年2月1日に大阪府知事選もあり  
+　　
+### 統一選以外の知事選、県議選
+各都道府県選管
+http://www.soumu.go.jp/senkyo/senkyo_s/links/senkan/  
 　
+
 以上
