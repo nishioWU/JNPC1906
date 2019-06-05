@@ -74,7 +74,7 @@ http://www.pref.osaka.lg.jp/senkan/date/h16san/San_Top_Main.htm
 http://www.pref.osaka.lg.jp/senkan/date/h19hugi/Fugi_Top_Main.htm  
 　　
 ### 統一選以外の知事選、県議選
-各都道府県選管
+各都道府県選管  
 http://www.soumu.go.jp/senkyo/senkyo_s/links/senkan/  
 　
 
