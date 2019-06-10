@@ -4,8 +4,8 @@
 解凍用パスワードは、当日、会場でお知らせしています。分からない方は、お問い合わせ下さい。  
 
 終了後にアップロードしたフォルダが２つあります。フォルダ名に「NEW」がついているものです。これ以外は、データフォルダも含め、当日のままですので、NEW以外はダウンロードし直さなくて結構です。
-
-![人口動態統計のデータを使った３次元グラフ](https://github.com/nishioWU/JNPC1906/blob/master/NEW_birthday/なぜ曜日によって出生数が違うのか.pdf)
+[![桜](sakura.jpg)](http://google.com)
+[![人口動態統計のデータを使った３次元グラフ](https://github.com/nishioWU/JNPC1906/blob/master/NEW_birthday/birthday.png)](https://github.com/nishioWU/JNPC1906/blob/master/NEW_birthday/birthday_&_rate.xlsx)
 
 (1)dataフォルダ内に、４道府県の整形済みCSVファイルがあります。UTF-8もS-JISも用意してあります。整形は飛ばして、作図の練習をしたい方は、これをお使い下さい。  
 (2)graphフォルダには、全国の投票率のヒストグラムや、４道府県の層別散布図が入っています。全国のヒストグラムは、縦１列に並べたもの（95年が低いですね）と、亥年が縦に並ぶよう４列にしたものと、描いてみました。同じデータを使っています。複数の図を１枚のPDFに納めるのが楽なので、作図にはRを使いました。データの整形はExcelでしています。  
